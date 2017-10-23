@@ -31,16 +31,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "georgedocset/xml",
+        "OutputYamlFolder": "georgedocset/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "georgedotnet01"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "georgedocset/api/georgedotnet01/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "georgedocset/api"
       ]
     }
   ],
